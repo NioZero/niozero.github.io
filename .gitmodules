@@ -1,0 +1,3 @@
+[submodule "overlay/twitch"]
+	path = overlay/twitch
+	url = https://github.com/NioZero/SocialIconsOverlay.git
